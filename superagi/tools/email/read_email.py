@@ -1,5 +1,7 @@
 import email
 import json
+import imaplib
+import poplib
 from typing import Type
 
 from pydantic import BaseModel, Field
