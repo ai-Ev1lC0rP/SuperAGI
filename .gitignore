@@ -24,3 +24,4 @@ tests/unit_tests/resource_manager/test_path
 docker-compose.yaml
 huginn/docker-compose.yml
 .aider*
+.vscode/settings.json
